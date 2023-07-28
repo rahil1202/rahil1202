@@ -20,5 +20,6 @@ I am currently learning Full Stack Development and Abdriod Development
 
 ## 🌐 Find me around the web
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat-square&logo=linkedin&logoColor=white&link=[YOUR_LINKEDIN_PROFILE_URL](https://www.linkedin.com/in/md-rahil-vahora/)https://www.linkedin.com/in/md-rahil-vahora/)]([YOUR_LINKEDIN_PROFILE_URL](https://www.linkedin.com/in/md-rahil-vahora/)https://www.linkedin.com/in/md-rahil-vahora/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat-square&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/md-rahil-vahora/)](https://www.linkedin.com/in/md-rahil-vahora/)
+
 
