@@ -15,11 +15,7 @@ Welcome to my GitHub profile! I'm Rahil Vahora, and I'm a Front-end Developer. H
 
 ## 🌐 Find me around the web
 
-<a href="https://rahil1202.github.io/portfolio/" target="_blank">
-  <i class="fa fa-globe"></i> Portfolio
-</a>
-
-
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-9cf?style=flat-square&link=https://rahil1202.github.io/portfolio/)](https://rahil1202.github.io/portfolio/)
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat-square&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/md-rahil-vahora/)](https://www.linkedin.com/in/md-rahil-vahora/)
 
