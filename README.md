@@ -20,8 +20,5 @@ I am currently learning Full Stack Development and Abdriod Development
 
 ## 🌐 Find me around the web
 
-- Personal Website: [https://rahil1202.github.io/portfolio/]
-- Twitter: [Rahil_Vahora12]
--![github](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=GitHub&logoColor=white)]
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat-square&logo=linkedin&logoColor=white&link=[YOUR_LINKEDIN_PROFILE_URL](https://www.linkedin.com/in/md-rahil-vahora/)https://www.linkedin.com/in/md-rahil-vahora/)]([YOUR_LINKEDIN_PROFILE_URL](https://www.linkedin.com/in/md-rahil-vahora/)https://www.linkedin.com/in/md-rahil-vahora/)
 
-- Instagram: [rahil._.vahora]
