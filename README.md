@@ -10,7 +10,9 @@ A skilled developer with a deep passion for AI and extensive experience in front
 *   🖥️  See my portfolio at [here](http://rahil-vahora.netlify.app)
 *   ✉️  You can contact me at [rahilisvahora@gmail.com](mailto:rahilisvahora@gmail.com)
 *   🧠  I'm learning Full stack devlopment and Andriod Development
-*   ⚡  Lemme tell you all a secret, I am a Batman### Skills 
+*   ⚡  Lemme tell you all a secret, I am a Batman
+  
+  ### Skills 
 <p align="left">
 <a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/c-colored.svg" width="36" height="36" alt="C" /></a>
 <a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/cplusplus-colored.svg" width="36" height="36" alt="C++" /></a>
@@ -33,8 +35,7 @@ A skilled developer with a deep passion for AI and extensive experience in front
 <a href="https://www.linux.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/linux-colored.svg" width="36" height="36" alt="Linux" /></a>
   <br><br>
 </p>
-                    
-                  ### Socials
+      ### Socials
                   
                   
                 <p align="left">
