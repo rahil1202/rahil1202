@@ -13,7 +13,7 @@
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/rahil._.vahora) 
 [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/Rahil_Vahora12) 
 
-## 🧠 Coding Profiles
+## 🧠 Coding Profiles:
 
 [![GeeksforGeeks](https://img.shields.io/badge/GeeksforGeeks-%2300A651.svg?style=flat&logo=GeeksforGeeks&logoColor=white)](https://auth.geeksforgeeks.org/user/rahil1202/practice)
 [![LeetCode](https://img.shields.io/badge/LeetCode-%23F89F1B.svg?style=flat&logo=LeetCode&logoColor=white)](https://leetcode.com/rahilvahora/)
@@ -39,14 +39,14 @@
 ![](https://github-readme-streak-stats.herokuapp.com/?user=rahil1202&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=rahil1202&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-## 🏆 GitHub Trophies
+## 🏆 GitHub Trophies:
 ![](https://github-profile-trophy.vercel.app/?username=rahil1202&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
-### 🔝 Top Contributed Repo
+### 🔝 Top Contributed Repo:
 ![](https://github-contributor-stats.vercel.app/api?username=rahil1202&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 
-### ✍️ Random Dev Quote
+### ✍️ Random Dev Quote:
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 
