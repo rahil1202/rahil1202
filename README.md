@@ -1,6 +1,6 @@
 ## 💫 About Me:
-👔 A skilled developer with a deep passion for AI and extensive experience in front-end development. 
-💻 In addition to my technical skills, I possess a solid foundation in data structures and algorithms (DSA) and excel at problem-solving. 
+👔 A skilled developer with a deep passion for AI and extensive experience in front-end development.<br>
+💻 In addition to my technical skills, I possess a solid foundation in data structures and algorithms (DSA) and excel at problem-solving.<br>
 📈 I have honed my problem-solving abilities through solving complex DSA problems, ensuring optimized code performance and efficient algorithms.<br><br>
 
 
