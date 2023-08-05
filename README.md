@@ -7,8 +7,8 @@
 ## 🌐 Socials:
 
 [![Portfolio](https://img.shields.io/badge/%20MY%20PORTFOLIO-0077B5>?logo=medium&logoColor=white)](https://rahil1202.github.io/portfolio/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/md-rahil-vahora) 
-[![Codepen](https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white)](https://codepen.io/rahil1202)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/md-rahil-vahora)
+[![CodePen](https://img.shields.io/badge/CodePen-%23000000.svg?style=flat&logo=CodePen&logoColor=white)](https://codepen.io/rahil1202)
 [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@rahilisvahora)
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/rahil._.vahora) 
 [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/Rahil_Vahora12) 
