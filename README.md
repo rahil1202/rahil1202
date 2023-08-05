@@ -1,5 +1,5 @@
-# 💫 About Me:
-🌐 A skilled developer with a deep passion for AI and extensive experience in front-end development. 
+## 💫 About Me:
+👔 A skilled developer with a deep passion for AI and extensive experience in front-end development. 
 💻 In addition to my technical skills, I possess a solid foundation in data structures and algorithms (DSA) and excel at problem-solving. 
 📈 I have honed my problem-solving abilities through solving complex DSA problems, ensuring optimized code performance and efficient algorithms.<br><br>
 
@@ -13,7 +13,7 @@
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/rahil._.vahora) 
 [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/Rahil_Vahora12) 
 
-## 🏆 Coding Profiles
+## 🧠 Coding Profiles
 
 [![GeeksforGeeks](https://img.shields.io/badge/GeeksforGeeks-%2300A651.svg?style=flat&logo=GeeksforGeeks&logoColor=white)](https://auth.geeksforgeeks.org/user/rahil1202/practice)
 [![LeetCode](https://img.shields.io/badge/LeetCode-%23F89F1B.svg?style=flat&logo=LeetCode&logoColor=white)](https://leetcode.com/rahilvahora/)
@@ -50,11 +50,5 @@
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 
-### 😂 Random Dev Meme
-<img src="https://rm.up.railway.app/" width="512px"/>
-
----
 [![](https://visitcount.itsvg.in/api?id=rahil1202&icon=6&color=0)](https://visitcount.itsvg.in)
 
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
