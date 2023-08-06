@@ -1,8 +1,13 @@
 ## 💫 About Me:
 
-👔 A skilled developer with a deep passion for AI/ML and extensive experience in front-end development.<br>
-💻 In addition to my technical skills, I possess a solid foundation in data structures and algorithms (DSA) and excel at problem-solving.<br>
-📈 I have honed my problem-solving abilities through solving complex DSA problems, ensuring optimized code performance and efficient algorithms.<br><br>
+👋 Hey there! I'm a skilled developer with a deep passion for AI and extensive experience in front-end development. My journey in tech has led me to excel in building user-friendly and visually appealing web applications.
+
+💻 In addition to my technical skills, I possess a solid foundation in data structures and algorithms (DSA) and have a knack for problem-solving. I enjoy tackling complex DSA challenges, ensuring optimized code performance and efficient algorithms.
+
+🚀 Currently exploring the fascinating world of AI and constantly seeking opportunities to innovate and create meaningful solutions. I'm open to collaborations and always excited to learn from fellow developers.
+
+📈 Let's connect and build something awesome together!
+</br></br>
 
 
 ## 🌐 Socials:
@@ -25,7 +30,7 @@
 
 ## 💻 Tech Stack:
 
-### 📜Programming Languages
+### 📜 Programming Languages
 
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) 
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
