@@ -23,7 +23,7 @@
 [![Coding Ninjas](https://img.shields.io/badge/Coding_Ninjas-%23142771.svg?style=flat&logo=Coding-Ninjas&logoColor=white)](https://www.codingninjas.com/studio/profile/rahil1202)
 
 
-# 💻 Tech Stack:
+## 💻 Tech Stack:
 
 ### 📜Programming Languages
 
