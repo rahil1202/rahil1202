@@ -15,8 +15,6 @@
 [![Portfolio](https://img.shields.io/badge/%20MY%20PORTFOLIO-0077B5>?logo=medium&logoColor=white)](https://rahil1202.github.io/portfolio/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/md-rahil-vahora)
 [![CodePen](https://img.shields.io/badge/CodePen-%23000000.svg?style=flat&logo=CodePen&logoColor=white)](https://codepen.io/rahil1202)
-[![Dev.to](https://img.shields.io/badge/Dev.to-%230A0A0A.svg?style=flat&logo=dev.to&logoColor=white)](https://dev.to/rahilisvahora/)
-[![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@rahilisvahora)
 [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/Rahil_Vahora12) 
 
 ## 🧠 Coding Profiles:
@@ -27,7 +25,11 @@
 [![CodeChef](https://img.shields.io/badge/CodeChef-%23EC6512.svg?style=flat&logo=CodeChef&logoColor=white)](https://www.codechef.com/users/rahil_vahora)
 [![Coding Ninjas](https://img.shields.io/badge/Coding_Ninjas-%23142771.svg?style=flat&logo=Coding-Ninjas&logoColor=white)](https://www.codingninjas.com/studio/profile/rahil1202)
 
+# ✍️ Blogs:
+[![Dev.to](https://img.shields.io/badge/Dev.to-%230A0A0A.svg?style=flat&logo=dev.to&logoColor=white)](https://dev.to/rahilisvahora/)
+[![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@rahilisvahora)
 
+</br>
 ## 💻 Tech Stack:
 
 ### 📜 Programming Languages
