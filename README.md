@@ -28,10 +28,10 @@
 # ✍️ Blogs:
 [![Dev.to](https://img.shields.io/badge/Dev.to-%230A0A0A.svg?style=flat&logo=dev.to&logoColor=white)](https://dev.to/rahilisvahora/)
 [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@rahilisvahora)
-
 </br>
 
 ## 💻 Tech Stack:
+</br>
 
 ### 📜 Programming Languages
 
