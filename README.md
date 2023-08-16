@@ -25,14 +25,15 @@
 [![CodeChef](https://img.shields.io/badge/CodeChef-%23EC6512.svg?style=flat&logo=CodeChef&logoColor=white)](https://www.codechef.com/users/rahil_vahora)
 [![Coding Ninjas](https://img.shields.io/badge/Coding_Ninjas-%23142771.svg?style=flat&logo=Coding-Ninjas&logoColor=white)](https://www.codingninjas.com/studio/profile/rahil1202)
 
-# ✍️ Blogs:
+## ✍️ Blogs:
 [![Dev.to](https://img.shields.io/badge/Dev.to-%230A0A0A.svg?style=flat&logo=dev.to&logoColor=white)](https://dev.to/rahilisvahora/)
 [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@rahilisvahora)
 </br>
 
-## 💻 Tech Stack:
-### 📜 Programming Languages
 
+## 💻 Tech Stacks:
+
+### 📜 Programming Languages
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) 
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white) 
