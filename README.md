@@ -1,6 +1,6 @@
 ## 💫 About Me:
 
-👋 Hey there! I'm a skilled developer with a deep passion for AI and extensive experience in front-end development. My journey in tech has led me to excel in building user-friendly and visually appealing web applications.
+👋 Hey there! I'm a skilled developer with a deep passion for Full Stack Development and extensive experience in front-end development. My journey in tech has led me to excel in building user-friendly and visually appealing web applications.
 
 💻 In addition to my technical skills, I possess a solid foundation in data structures and algorithms (DSA) and have a knack for problem-solving. I enjoy tackling complex DSA challenges, ensuring optimized code performance and efficient algorithms.
 
