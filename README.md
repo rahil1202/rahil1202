@@ -9,6 +9,9 @@
 📈 Let's connect and build something awesome together!
 </br></br>
 
+[![An image of @rahil1202's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/rahil1202)](https://holopin.io/@rahil1202)
+
+</br>
 
 ## 🌐 Socials:
 
