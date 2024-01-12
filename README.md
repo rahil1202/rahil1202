@@ -83,7 +83,7 @@
 
 ## 📊 Github Commits
 <div align="center">
-    <img src="https://raw.githubusercontent.com/[rahil1202]/[rahil1202]/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Grid Snake Animation"/>
+    <img src="https://raw.githubusercontent.com/[https://github.com/rahil1202]/[https://github.com/rahil1202]/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Grid Snake Animation"/>
 </div>
 
 ## 🏆 GitHub Trophies:
