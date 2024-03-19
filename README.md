@@ -20,8 +20,6 @@
 
 [![GeeksforGeeks](https://img.shields.io/badge/GeeksforGeeks-%2300A651.svg?style=flat&logo=GeeksforGeeks&logoColor=white)](https://auth.geeksforgeeks.org/user/rahil1202/practice)
 [![LeetCode](https://img.shields.io/badge/LeetCode-%23F89F1B.svg?style=flat&logo=LeetCode&logoColor=white)](https://leetcode.com/rahil1202/)
-[![Codeforces](https://img.shields.io/badge/Codeforces-%23FFCF04.svg?style=flat&logo=Codeforces&logoColor=black)](https://codeforces.com/profile/rahil_vahora)
-[![CodeChef](https://img.shields.io/badge/CodeChef-%23EC6512.svg?style=flat&logo=CodeChef&logoColor=white)](https://www.codechef.com/users/rahil_vahora)
 [![Coding Ninjas](https://img.shields.io/badge/Coding_Ninjas-%23142771.svg?style=flat&logo=Coding-Ninjas&logoColor=white)](https://www.codingninjas.com/studio/profile/rahil1202)
 
 ## ✍️ Blogs:
