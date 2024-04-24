@@ -50,8 +50,8 @@
 [![Node.js](https://img.shields.io/badge/Node.js-%23339933.svg?style=for-the-badge&logo=node.js&logoColor=white)](https://nodejs.org/)
 [![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge)](https://expressjs.com/)
 ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) 
+[![REST API](https://img.shields.io/badge/REST_API-%2300FF00.svg?style=for-the-badge)](https://restfulapi.net/)
 [![FastAPI](https://img.shields.io/badge/FastAPI-%23007D9C.svg?style=for-the-badge&logo=fastapi&logoColor=white)](https://fastapi.tiangolo.com/)
-
 </br>
 
 ### 🛢️ Database
