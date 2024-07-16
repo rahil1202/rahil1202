@@ -61,16 +61,16 @@
 [![SQL](https://img.shields.io/badge/SQL-%2300599C.svg?style=for-the-badge&logo=sql&logoColor=white)](https://en.wikipedia.org/wiki/SQL)
 [![MongoDB](https://img.shields.io/badge/MongoDB-%2347A248.svg?style=for-the-badge&logo=mongodb&logoColor=white)](https://www.mongodb.com/)
 </br>
+
 </br></br>
 
 ## 📊 GitHub Stats:
-![](https://github-readme-streak-stats.herokuapp.com/?user=rahil1202&theme=dark&hide_border=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=rahil1202&theme=dark&hide_border=false)<br/></br>
 
 
 ## 🏆 GitHub Trophies:
-![](https://github-profile-trophy.vercel.app/?username=rahil1202&theme=radical&no-frame=false&no-bg=true&margin-w=4)</br>
+![](https://github-profile-trophy.vercel.app/?username=rahil1202&theme=radical&no-frame=false&no-bg=true&margin-w=4)</br></br>
 
 ## 🔝 Top Contributed Repo:
-![](https://github-contributor-stats.vercel.app/api?username=rahil1202&limit=5&theme=dark&combine_all_yearly_contributions=true)</br>
-
+![](https://github-contributor-stats.vercel.app/api?username=rahil1202&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
