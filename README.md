@@ -5,10 +5,14 @@
 💻 In addition to my technical skills, I possess a solid foundation in data structures and algorithms (DSA) and have a knack for problem-solving. I enjoy tackling complex DSA challenges, ensuring optimized code performance and efficient algorithms.
 
 📈 Let's connect and build something awesome together!
+
+<img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="500">
 </br></br>
 
-<img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/0c7eb6ed-663b-4ce4-bfbd-18239a38ba1b" width="500">
+
+<img src="https://user-images.githubusercontent.com/74038190/235224431-e8c8c12e-6826-47f1-89fb-2ddad83b3abf.gif" width="300">
 <br><br>
+
 
 ## 🌐 Socials:
 
@@ -23,7 +27,6 @@
 [![LeetCode](https://img.shields.io/badge/LeetCode-%23F89F1B.svg?style=flat&logo=LeetCode&logoColor=white)](https://leetcode.com/rahil1202/)
 [![Coding Ninjas](https://img.shields.io/badge/Coding_Ninjas-%23142771.svg?style=flat&logo=Coding-Ninjas&logoColor=white)](https://www.codingninjas.com/studio/profile/rahil1202)
 
-
 </br>
 
 ## 💻 Tech Stacks:
@@ -31,7 +34,6 @@
 ### 📜 Programming Languages
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) 
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white) 
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 [![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)](https://www.typescriptlang.org/)
 </br>
@@ -64,24 +66,10 @@
 </br>
 
 
-### 💎 Extro Tools 
-![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) 
-[![Postman](https://img.shields.io/badge/postman-%23FF6C37.svg?style=for-the-badge&logo=postman&logoColor=white)](https://www.postman.com/)
-[![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)](https://www.docker.com/)
-![LINUX](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white) 
-![Raspberry Pi](https://img.shields.io/badge/-RaspberryPi-C51A4A?style=for-the-badge&logo=Raspberry-Pi)
-</br></br>
 
 ## 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=rahil1202&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=rahil1202&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=rahil1202&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-## 📊 Github Commits
-<div align="center">
-    <img src="https://raw.githubusercontent.com/[https://github.com/rahil1202]/[https://github.com/rahil1202]/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Grid Snake Animation"/>
-</div>
 
 ## 🏆 GitHub Trophies:
 ![](https://github-profile-trophy.vercel.app/?username=rahil1202&theme=radical&no-frame=false&no-bg=true&margin-w=4)
@@ -89,7 +77,4 @@
 ## 🔝 Top Contributed Repo:
 ![](https://github-contributor-stats.vercel.app/api?username=rahil1202&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
-
-
-[![](https://visitcount.itsvg.in/api?id=rahil1202&icon=6&color=0)](https://visitcount.itsvg.in)
 
