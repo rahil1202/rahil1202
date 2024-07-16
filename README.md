@@ -17,14 +17,14 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/rahil-vahora)
 [![CodePen](https://img.shields.io/badge/CodePen-%23000000.svg?style=flat&logo=CodePen&logoColor=white)](https://codepen.io/rahil1202)
 [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/Rahil_Vahora12) 
-</br>
+</br></br>
 
 ## 🧠 Coding Profiles:
 
 [![GeeksforGeeks](https://img.shields.io/badge/GeeksforGeeks-%2300A651.svg?style=flat&logo=GeeksforGeeks&logoColor=white)](https://auth.geeksforgeeks.org/user/rahil1202/practice)
 [![LeetCode](https://img.shields.io/badge/LeetCode-%23F89F1B.svg?style=flat&logo=LeetCode&logoColor=white)](https://leetcode.com/rahil1202/)
 [![Coding Ninjas](https://img.shields.io/badge/Coding_Ninjas-%23142771.svg?style=flat&logo=Coding-Ninjas&logoColor=white)](https://www.codingninjas.com/studio/profile/rahil1202)
-</br>
+</br></br>
 
 ## 💻 Tech Stacks:
 
@@ -61,7 +61,7 @@
 [![SQL](https://img.shields.io/badge/SQL-%2300599C.svg?style=for-the-badge&logo=sql&logoColor=white)](https://en.wikipedia.org/wiki/SQL)
 [![MongoDB](https://img.shields.io/badge/MongoDB-%2347A248.svg?style=for-the-badge&logo=mongodb&logoColor=white)](https://www.mongodb.com/)
 </br>
-
+</br></br>
 
 ## 📊 GitHub Stats:
 ![](https://github-readme-streak-stats.herokuapp.com/?user=rahil1202&theme=dark&hide_border=false)<br/>
