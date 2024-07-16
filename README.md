@@ -7,6 +7,9 @@
 📈 Let's connect and build something awesome together!
 </br></br>
 
+<img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/0c7eb6ed-663b-4ce4-bfbd-18239a38ba1b" width="500">
+<br><br>
+
 ## 🌐 Socials:
 
 [![Portfolio](https://img.shields.io/badge/%20MY%20PORTFOLIO-0077B5>?logo=medium&logoColor=white)](https://rahil1202.github.io/portfolio/)
