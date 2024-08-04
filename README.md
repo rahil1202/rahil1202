@@ -11,18 +11,11 @@
 
 
 
-## 🌐 Socials:
-
-[![Portfolio](https://img.shields.io/badge/%20MY%20PORTFOLIO-0077B5>?logo=medium&logoColor=white)](https://rahil1202.github.io/portfolio/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/rahil-vahora)
-[![CodePen](https://img.shields.io/badge/CodePen-%23000000.svg?style=flat&logo=CodePen&logoColor=white)](https://codepen.io/rahil1202)
-[![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/Rahil_Vahora12) 
-</br></br>
 
 ## 🧠 Coding Profiles:
 
-[![GeeksforGeeks](https://img.shields.io/badge/GeeksforGeeks-%2300A651.svg?style=flat&logo=GeeksforGeeks&logoColor=white)](https://auth.geeksforgeeks.org/user/rahil1202/practice)
 [![LeetCode](https://img.shields.io/badge/LeetCode-%23F89F1B.svg?style=flat&logo=LeetCode&logoColor=white)](https://leetcode.com/rahil1202/)
+[![GeeksforGeeks](https://img.shields.io/badge/GeeksforGeeks-%2300A651.svg?style=flat&logo=GeeksforGeeks&logoColor=white)](https://auth.geeksforgeeks.org/user/rahil1202/practice)
 [![Coding Ninjas](https://img.shields.io/badge/Coding_Ninjas-%23142771.svg?style=flat&logo=Coding-Ninjas&logoColor=white)](https://www.codingninjas.com/studio/profile/rahil1202)
 </br></br>
 
