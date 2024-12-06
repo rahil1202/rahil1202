@@ -2,10 +2,6 @@
 
 👋 Hey there! I'm a developer with a deep passion for Full Stack Development and extensive experience in front-end development. My journey in tech has led me to excel in building user-friendly and visually appealing web applications.
 
-💻 In addition to my technical skills, I possess a solid foundation in data structures and algorithms (DSA) and have a knack for problem-solving. I enjoy tackling complex DSA challenges, ensuring optimized code performance and efficient algorithms.
-
-📈 Let's connect and build something awesome together!
-
 <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="500">
 </br></br>
 
