@@ -17,17 +17,13 @@
 
 ## 💻 Tech Stacks:
 
-#### 📜 Programming Languages
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) 
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-[![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)](https://www.typescriptlang.org/)
-</br>
 
 #### 🖥️ FrontEnd Technologies
 
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) 
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) 
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+[![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)](https://www.typescriptlang.org/)
 ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
 ![MUI](https://img.shields.io/badge/MUI-%230081CB.svg?style=for-the-badge&logo=material-ui&logoColor=white)
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
@@ -43,10 +39,6 @@
 ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) 
 [![REST API](https://img.shields.io/badge/REST_API-%2300FF00.svg?style=for-the-badge)](https://restfulapi.net/)
 [![FastAPI](https://img.shields.io/badge/FastAPI-%23007D9C.svg?style=for-the-badge&logo=fastapi&logoColor=white)](https://fastapi.tiangolo.com/)
-</br>
-
-#### 🛢️ Database
-
 [![SQL](https://img.shields.io/badge/SQL-%2300599C.svg?style=for-the-badge&logo=sql&logoColor=white)](https://en.wikipedia.org/wiki/SQL)
 [![MongoDB](https://img.shields.io/badge/MongoDB-%2347A248.svg?style=for-the-badge&logo=mongodb&logoColor=white)](https://www.mongodb.com/)
 </br>
@@ -57,9 +49,5 @@
 ![](https://github-readme-streak-stats.herokuapp.com/?user=rahil1202&theme=dark&hide_border=false)<br/></br>
 
 
-## 🏆 GitHub Trophies:
-![](https://github-profile-trophy.vercel.app/?username=rahil1202&theme=radical&no-frame=false&no-bg=true&margin-w=4)</br></br>
 
-## 🔝 Top Contributed Repo:
-![](https://github-contributor-stats.vercel.app/api?username=rahil1202&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
