@@ -43,8 +43,6 @@
 
 </br></br>
 
-## 📊 GitHub Stats:
-![](https://github-readme-streak-stats.herokuapp.com/?user=rahil1202&theme=dark&hide_border=false)<br/></br>
 
 
 
