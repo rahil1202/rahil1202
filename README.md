@@ -41,6 +41,13 @@
 [![MongoDB](https://img.shields.io/badge/MongoDB-%2347A248.svg?style=for-the-badge&logo=mongodb&logoColor=white)](https://www.mongodb.com/)
 </br>
 
+<picture>
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/rahil1202/rahil1202/output/pacman-contribution-graph.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/rahil1202/rahil1202/output/pacman-contribution-graph-dark.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/rahil1202/rahil1202/output/pacman-contribution-graph.svg">
+</picture>
+
+
 </br></br>
 
 
