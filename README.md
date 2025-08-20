@@ -14,7 +14,7 @@
 </br></br>
 
 ## 🤖 Projects:
-[![Terminal-CLI-Portfolio]](https://terminal.rahil.pro)
+[Terminal-CLI-Portfolio](https://terminal.rahil.pro)
 
 
 
